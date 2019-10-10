@@ -1,0 +1,3 @@
+[submodule "www/js"]
+	path = www/js
+	url = https://github.com/darapov/mdt-js
